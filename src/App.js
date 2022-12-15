@@ -6,7 +6,6 @@ import Header from "./components/Header";
 import Image from "./components/Image";
 function App() {
   const [characterData, setCharacterData] = useState("empty");
-  console.log(characterData);
   const getRandomAnime = () => {
     Axios.get("https://api.catboys.com/img").then((res) => {
       setCharacterData(res.data);

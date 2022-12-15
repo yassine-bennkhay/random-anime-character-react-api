@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-anime-character-react-api/static/css/main.68de86ec.css",
+    "main.js": "/random-anime-character-react-api/static/js/main.9c9f77d5.js",
+    "static/js/787.a99c92b0.chunk.js": "/random-anime-character-react-api/static/js/787.a99c92b0.chunk.js",
+    "index.html": "/random-anime-character-react-api/index.html",
+    "main.68de86ec.css.map": "/random-anime-character-react-api/static/css/main.68de86ec.css.map",
+    "main.9c9f77d5.js.map": "/random-anime-character-react-api/static/js/main.9c9f77d5.js.map",
+    "787.a99c92b0.chunk.js.map": "/random-anime-character-react-api/static/js/787.a99c92b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68de86ec.css",
+    "static/js/main.9c9f77d5.js"
+  ]
+}
